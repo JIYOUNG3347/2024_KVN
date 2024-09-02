@@ -1,0 +1,19 @@
+﻿  MFC_OpenCV_Ex1.cpp
+c:\opencv\build\include\opencv2\core.hpp(1743): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core.hpp(1744): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core.hpp(1744): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  MFC_OpenCV_Ex1Dlg.cpp
+c:\opencv\build\include\opencv2\core.hpp(1743): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core.hpp(1744): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core.hpp(1744): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
+MFC_OpenCV_Ex1Dlg.obj : error LNK2001: "public: void __thiscall CAboutDlg::OnBnClickedButtonLoad1(void)" (?OnBnClickedButtonLoad1@CAboutDlg@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+MFC_OpenCV_Ex1Dlg.obj : error LNK2001: "public: void __thiscall CAboutDlg::OnBnClickedButtonLoad2(void)" (?OnBnClickedButtonLoad2@CAboutDlg@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+MFC_OpenCV_Ex1Dlg.obj : error LNK2019: "void __cdecl cv::error(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,char const *,char const *,int)" (?error@cv@@YAXHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PBD1H@Z) 외부 기호(참조 위치: "public: unsigned char * __thiscall cv::Mat::ptr<unsigned char>(int)" (??$ptr@E@Mat@cv@@QAEPAEH@Z) 함수)에서 확인하지 못했습니다.
+MFC_OpenCV_Ex1Dlg.obj : error LNK2019: "public: __thiscall cv::Mat::~Mat(void)" (??1Mat@cv@@QAE@XZ) 외부 기호(참조 위치: "public: void __thiscall CMFCOpenCVEx1Dlg::OnBnClickedMfcbutton1(void)" (?OnBnClickedMfcbutton1@CMFCOpenCVEx1Dlg@@QAEXXZ) 함수)에서 확인하지 못했습니다.
+MFC_OpenCV_Ex1Dlg.obj : error LNK2019: "public: bool __thiscall cv::Mat::empty(void)const " (?empty@Mat@cv@@QBE_NXZ) 외부 기호(참조 위치: "public: void __thiscall CMFCOpenCVEx1Dlg::OnBnClickedMfcbutton1(void)" (?OnBnClickedMfcbutton1@CMFCOpenCVEx1Dlg@@QAEXXZ) 함수)에서 확인하지 못했습니다.
+MFC_OpenCV_Ex1Dlg.obj : error LNK2019: "class cv::Mat __cdecl cv::imread(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?imread@cv@@YA?AVMat@1@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) 외부 기호(참조 위치: "public: void __thiscall CMFCOpenCVEx1Dlg::OnBnClickedMfcbutton1(void)" (?OnBnClickedMfcbutton1@CMFCOpenCVEx1Dlg@@QAEXXZ) 함수)에서 확인하지 못했습니다.
+MFC_OpenCV_Ex1Dlg.obj : error LNK2019: "void __cdecl cv::resize(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &,class cv::Size_<int>,double,double,int)" (?resize@cv@@YAXABV_InputArray@debug_build_guard@1@ABV_OutputArray@31@V?$Size_@H@1@NNH@Z) 외부 기호(참조 위치: "public: void __thiscall CMFCOpenCVEx1Dlg::DisplayImage(class cv::Mat &,class CStatic &)" (?DisplayImage@CMFCOpenCVEx1Dlg@@QAEXAAVMat@cv@@AAVCStatic@@@Z) 함수)에서 확인하지 못했습니다.
+C:\opencv\build\x64\vc16\lib\opencv_world480.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\opencv\build\x64\vc16\lib\opencv_world480d.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\jiyoung\Desktop\KVN\MFC_OpenCV_Ex1\Debug\MFC_OpenCV_Ex1.exe : fatal error LNK1120: 7개의 확인할 수 없는 외부 참조입니다.
