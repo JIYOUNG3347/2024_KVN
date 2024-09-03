@@ -11,7 +11,6 @@
 ### MFC_yolov8_video
 - 실행결과
   
-![제목 없는 동영상 - Clipchamp로 제작 (1)](https://github.com/user-attachments/assets/1f870ade-e631-4228-89ae-69b9722e143e)
 
 ### OpenCV_yolov8_Ex
 - 실행결과
@@ -19,6 +18,8 @@
 
 ### OpenCV_yolov8_Video_Ex
 - 실행결과
+
+ ![제목 없는 동영상 - Clipchamp로 제작 (1)](https://github.com/user-attachments/assets/1f870ade-e631-4228-89ae-69b9722e143e)
 
 ### sources
 - 예제 파일
