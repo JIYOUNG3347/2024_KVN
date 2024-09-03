@@ -8,7 +8,7 @@
 ### MFC_yolov8
 - 실행결과
 
-<img width="305" alt="YOLO_OpenCV_Ex" src="https://github.com/user-attachments/assets/fb3819f6-c02b-4604-b701-11151ad7e1b>
+<img width="305" alt="YOLO_OpenCV_Ex" src="https://github.com/user-attachments/assets/e3d1e205-bc27-4344-ae1a-4f11171f27f9">
 
 ### MFC_yolov8_video
 - 실행결과
